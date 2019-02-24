@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/arunrajkutu/testingServices/issues"
   },
-  "homepage": "https://github.com/arunrajkutu/testingServices#readme"
+  "homepage": "https://github.com/arunrajkutu/testingServices#readme",
+  "welcomePage":"Welcome.html"
 }
