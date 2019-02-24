@@ -16,5 +16,6 @@
     "url": "https://github.com/arunrajkutu/testingServices/issues"
   },
   "homepage": "https://github.com/arunrajkutu/testingServices#readme",
+  "welcomePage":"Welcome.html",
   "headrPage":"header.html"
 }
